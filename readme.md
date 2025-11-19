@@ -5,7 +5,7 @@
 ## 👥 Integrantes do Grupo
 
 - Pedro Henrique Mendes dos Santos – RM555332  
-- Kayky Silva Stiliano – RM555148
+- Kayky Silva Stiliano – RM555148 ;;
 
 ---
 
